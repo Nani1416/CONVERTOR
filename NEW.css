@@ -1,52 +1,34 @@
+.main{
+    height: 600px;
+    width: 700px;
+    
+   margin: auto;
+   padding: 40px;
+   
+   
+    
+}
 .heading{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 20px;
-    background-color: antiquewhite;
-    border-radius: 50px;
     text-align: center;
-    border-style: solid;
-    border-color: black;
-    border-width: 2px;
+    border:solid black 2px;
+    background-color: bisque;
+    border-radius: 10px;
 }
-.Note{
-    text-align: center;
-    background-color: antiquewhite;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    width: fit-content;
-    margin-left: 350px;
-    border-radius: 20px;
-    padding: 10px;
-    border-style: solid;
-    border-width: 3px;
-    border-color: black;
-}    
-.theory{
-    text-align: center;
-    justify-content: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
+
 #expression{
-    text-align: center;
-    margin-left: 410px;
+    border-radius: 10px;
     height: 40px;
-    width: 390px;
-    border-radius: 25px;
-    border-width: 2px;
-    border-color:black;
+    width:400px;
     font-size: 30px;
+    border:solid black 3px;
     
 }
 #convert{
-    margin-left: 525px;
-    height: 50px;
-    width: 100;
-    padding-right: 50px;
-    padding-left: 50px;
-    font-size: 20px;
-    border-radius: 20px;
-    border-color: blue;
+    width: 200px;
+    height: 40px;
+    font-size: 15px;
+    border:solid black 2px;
+    border-radius: 5px;
+    border-color:gold;
     
-}
-.convertor{
-    text-align: center;
 }
